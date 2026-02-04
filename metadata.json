@@ -1,0 +1,8 @@
+
+{
+  "name": "Voice Verify - AI Voice Detector",
+  "description": "A sophisticated API-based solution to detect AI-generated vs. Human voices across five major languages using advanced audio analysis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
